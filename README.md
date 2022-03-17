@@ -305,7 +305,7 @@ You can also update the count from the UI
 
 or you can you automatic horizontal pod autoscaling based on some parameters.
 
-##Disclamer 
+## Disclamer 
 This process is little more involved and might not be straight forward on some machines.
 This is why this section is just a bonus I leave link here that helped me to get to work but might not others.
 
